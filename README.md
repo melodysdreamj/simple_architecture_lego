@@ -18,3 +18,9 @@ lego add simple_architecture_lego
 
 ## Usage
 Usage here
+
+### Module Lego
+
+| Package                    | Type          | Version                                                                                           |
+|----------------------------|---------------|---------------------------------------------------------------------------------------------------|
+| bot_toast_lego             | Util          | [![bot_toast_lego](https://img.shields.io/pub/v/bot_toast_lego.svg)](https://pub.dev/packages/bot_toast_lego)             |

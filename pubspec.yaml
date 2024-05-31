@@ -20,6 +20,7 @@ dependencies:
   flutter_zoom_drawer: #@add
   flutter_screenutil:
   bot_toast:
+  june:
 
 dev_dependencies:
   flutter_test:
