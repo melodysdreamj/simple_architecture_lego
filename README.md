@@ -19,6 +19,10 @@ simple architecture under lego framework.
 │   └── ...
 ├── frontend
 │   ├── listener
+│   │   ├── battery
+│   │   ├── connectivity
+│   │   ├── location
+│   │   └── ...
 │   ├── view
 │   │   ├── page
 │   │   ├── component
