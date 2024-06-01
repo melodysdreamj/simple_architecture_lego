@@ -4,8 +4,8 @@ import '../../../../../../../main.dart';
 
 import 'dart:convert';
 
-class New {
-  New() {
+class Sub2 {
+  Sub2() {
     docId = randomString(10); // select your docId generation method
   }
 
@@ -753,10 +753,10 @@ class New {
     }).query));
   }
 
-  static New fromDataString(String dataString) {
+  static Sub2 fromDataString(String dataString) {
     Map<String, String> queryParams = Uri.splitQueryString(utf8.decode(base64.decode(dataString)));
 
-    New object = New();
+    Sub2 object = Sub2();
 
     object.s000 = queryParams["s000"] ?? "";
     // object.s001 = queryParams["s001"] ?? "";
@@ -1507,8 +1507,8 @@ class New {
     return map;
   }
 
-  static New fromMap(Map<dynamic, dynamic> queryParams) {
-    New object = New();
+  static Sub2 fromMap(Map<dynamic, dynamic> queryParams) {
+    Sub2 object = Sub2();
 
     object.s000 = queryParams["s000"] ?? "";
     // object.s001 = queryParams["s001"] ?? "";

@@ -4,17 +4,31 @@
 # simple_architecture_lego
 simple architecture under lego framework.
 
-##  Installation
-1. open terminal in the lego project root directory, enter the following command for install cli.
-   and create a new lego project if you don't have one.
+![](https://github.com/melodysdreamj/simple_architecture_lego/assets/21379657/03667106-144f-4720-966c-838f4323e0b6)
+
+## Structure
 ```bash
-flutter pub global activate lego_cli
-lego create
+.
+├── backend
+│   ├── app_storage
+│   ├── deeplink
+│   ├── fcm
+│   ├── firestore
+│   ├── sqflite
+│   ├── notification
+│   └── ...
+├── frontend
+│   ├── listener
+│   ├── view
+│   │   ├── page
+│   │   ├── component
+│   │   ├── bottom_sheet
+│   │   └── ...
+│   └── view_model
+└── usecase
+    └── ...
 ```
-2. in terminal, enter the following command for add lego to project.
-```bash
-lego add simple_architecture_lego
-```
+
 
 ## Usage
 Usage here
