@@ -1,5 +1,4 @@
 [![lego project](https://img.shields.io/badge/powered%20by-lego-blue?logo=github)](https://github.com/melodysdreamj/lego)
-[![pub package](https://img.shields.io/pub/v/simple_architecture_lego.svg)](https://pub.dartlang.org/packages/simple_architecture_lego)
 
 # simple_architecture_lego
 simple architecture under lego framework.
@@ -34,11 +33,41 @@ simple architecture under lego framework.
 ```
 
 
-## Usage
-Usage here
+## Getting Started
+1. open terminal in the lego project root directory, enter the following command for install cli. and create a new lego project if you don't have one.
+```bash
+flutter pub global activate lego_cli
+lego create
+```
 
-### Module Lego
+2. add below lego module to your project's `pubspec.yaml` file.
 
-| Package                    | Type          | Version                                                                                           |
-|----------------------------|---------------|---------------------------------------------------------------------------------------------------|
-| bot_toast_lego             | Util          | [![bot_toast_lego](https://img.shields.io/pub/v/bot_toast_lego.svg)](https://pub.dev/packages/bot_toast_lego)             |
+
+### Legos
+
+| Package                    | Type    | Platform                        | Version                                                                                           |
+|----------------------------|---------|---------------------------------|---------------------------------------------------------------------------------------------------|
+| sa_data_class_lego            | backend | all                             | [![pub package](https://img.shields.io/pub/v/sa_data_class_lego.svg)](https://pub.dartlang.org/packages/sa_data_class_lego) |
+| sa_enum_lego                  | backend | all                             | [![pub package](https://img.shields.io/pub/v/sa_enum_lego.svg)](https://pub.dartlang.org/packages/sa_enum_lego) |
+| sa_sqflite_lego               | backend | android,ios,macos,windows,linux | [![pub package](https://img.shields.io/pub/v/sa_sqflite_lego.svg)](https://pub.dartlang.org/packages/sa_sqflite_lego) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
