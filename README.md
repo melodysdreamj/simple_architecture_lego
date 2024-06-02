@@ -7,7 +7,7 @@ simple architecture under lego framework.
 
 ## Structure
 ```bash
-.
+app
 ├── backend
 │   ├── app_storage
 │   ├── deeplink
