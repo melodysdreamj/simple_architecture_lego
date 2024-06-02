@@ -43,16 +43,16 @@ lego create
 2. add below lego module to your project's `pubspec.yaml` file.
 
 
-### Legos
+### Backend Legos
 
-| Package                    | Type    | Platform                               | Version                                                                                           |
-|----------------------------|---------|----------------------------------------|---------------------------------------------------------------------------------------------------|
-| sa_data_class_lego            | backend | all                                    | [![pub package](https://img.shields.io/pub/v/sa_data_class_lego.svg)](https://pub.dartlang.org/packages/sa_data_class_lego) |
-| sa_enum_lego                  | backend | all                                    | [![pub package](https://img.shields.io/pub/v/sa_enum_lego.svg)](https://pub.dartlang.org/packages/sa_enum_lego) |
-| sa_sqflite_lego               | backend | android,ios,macos,windows,linux        | [![pub package](https://img.shields.io/pub/v/sa_sqflite_lego.svg)](https://pub.dartlang.org/packages/sa_sqflite_lego) |
-| sa_orange_lego                | backend | all                                    | [![pub package](https://img.shields.io/pub/v/sa_orange_lego.svg)](https://pub.dartlang.org/packages/sa_orange_lego) |
-| sa_shared_preference_lego      | backend | android,ios,macos,windows,linux,web | [![pub package](https://img.shields.io/pub/v/sa_shared_preference_lego.svg)](https://pub.dartlang.org/packages/sa_shared_preference_lego) |
-
+| Package                    | Type      | Platform                         | Version                                                                                           |
+|----------------------------|-----------|----------------------------------|---------------------------------------------------------------------------------------------------|
+| sa_data_class_lego            | dataclass | all                              | [![pub package](https://img.shields.io/pub/v/sa_data_class_lego.svg)](https://pub.dartlang.org/packages/sa_data_class_lego) |
+| sa_enum_lego                  | dataclass | all                              | [![pub package](https://img.shields.io/pub/v/sa_enum_lego.svg)](https://pub.dartlang.org/packages/sa_enum_lego) |
+| sa_sqflite_lego               | database  | mobile,desktop                   | [![pub package](https://img.shields.io/pub/v/sa_sqflite_lego.svg)](https://pub.dartlang.org/packages/sa_sqflite_lego) |
+| sa_orange_lego                | database   | all                              | [![pub package](https://img.shields.io/pub/v/sa_orange_lego.svg)](https://pub.dartlang.org/packages/sa_orange_lego) |
+| sa_shared_preference_lego      | database   | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_shared_preference_lego.svg)](https://pub.dartlang.org/packages/sa_shared_preference_lego) |
+| sa_flutter_secure_storage_lego | database   | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_flutter_secure_storage_lego.svg)](https://pub.dartlang.org/packages/sa_flutter_secure_storage_lego) |
 
 
 
