@@ -50,11 +50,11 @@ lego create
 | sa_data_class_lego            | dataclass | all                              | [![pub package](https://img.shields.io/pub/v/sa_data_class_lego.svg)](https://pub.dartlang.org/packages/sa_data_class_lego) |
 | sa_enum_lego                  | dataclass | all                              | [![pub package](https://img.shields.io/pub/v/sa_enum_lego.svg)](https://pub.dartlang.org/packages/sa_enum_lego) |
 | sa_sqflite_lego               | database  | mobile,desktop                   | [![pub package](https://img.shields.io/pub/v/sa_sqflite_lego.svg)](https://pub.dartlang.org/packages/sa_sqflite_lego) |
-| sa_orange_lego                | database   | all                              | [![pub package](https://img.shields.io/pub/v/sa_orange_lego.svg)](https://pub.dartlang.org/packages/sa_orange_lego) |
-| sa_shared_preference_lego      | database   | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_shared_preference_lego.svg)](https://pub.dartlang.org/packages/sa_shared_preference_lego) |
-| sa_flutter_secure_storage_lego | database   | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_flutter_secure_storage_lego.svg)](https://pub.dartlang.org/packages/sa_flutter_secure_storage_lego) |
+| sa_orange_lego                | database  | all                              | [![pub package](https://img.shields.io/pub/v/sa_orange_lego.svg)](https://pub.dartlang.org/packages/sa_orange_lego) |
+| sa_shared_preference_lego      | database  | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_shared_preference_lego.svg)](https://pub.dartlang.org/packages/sa_shared_preference_lego) |
+| sa_flutter_secure_storage_lego | database  | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_flutter_secure_storage_lego.svg)](https://pub.dartlang.org/packages/sa_flutter_secure_storage_lego) |
 | lego add sa_app_storage_lego   | storage   | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_app_storage_lego.svg)](https://pub.dartlang.org/packages/sa_app_storage_lego) |
-
+| sa_listener_lego               | template  | all                              | [![pub package](https://img.shields.io/pub/v/sa_listener_lego.svg)](https://pub.dartlang.org/packages/sa_listener_lego) |
 
 
 
