@@ -50,7 +50,7 @@ lego create
 | sa_data_class_lego            | backend | all                             | [![pub package](https://img.shields.io/pub/v/sa_data_class_lego.svg)](https://pub.dartlang.org/packages/sa_data_class_lego) |
 | sa_enum_lego                  | backend | all                             | [![pub package](https://img.shields.io/pub/v/sa_enum_lego.svg)](https://pub.dartlang.org/packages/sa_enum_lego) |
 | sa_sqflite_lego               | backend | android,ios,macos,windows,linux | [![pub package](https://img.shields.io/pub/v/sa_sqflite_lego.svg)](https://pub.dartlang.org/packages/sa_sqflite_lego) |
-
+| sa_orange_lego                | backend | all                             | [![pub package](https://img.shields.io/pub/v/sa_orange_lego.svg)](https://pub.dartlang.org/packages/sa_orange_lego) |
 
 
 
