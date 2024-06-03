@@ -45,21 +45,21 @@ lego create
 
 ### Backend Legos
 
-| Package                    | Type             | Platform                         | Version                                                                                           |
-|----------------------------|------------------|----------------------------------|---------------------------------------------------------------------------------------------------|
-| sa_data_class_lego            | backend          | all                              | [![pub package](https://img.shields.io/pub/v/sa_data_class_lego.svg)](https://pub.dartlang.org/packages/sa_data_class_lego) |
-| sa_enum_lego                  | backend          | all                              | [![pub package](https://img.shields.io/pub/v/sa_enum_lego.svg)](https://pub.dartlang.org/packages/sa_enum_lego) |
-| sa_sqflite_lego               | backend          | mobile,desktop                   | [![pub package](https://img.shields.io/pub/v/sa_sqflite_lego.svg)](https://pub.dartlang.org/packages/sa_sqflite_lego) |
-| sa_orange_lego                | backend          | all                              | [![pub package](https://img.shields.io/pub/v/sa_orange_lego.svg)](https://pub.dartlang.org/packages/sa_orange_lego) |
+| Package                    | Type             | Platform           | Version                                                                                           |
+|----------------------------|------------------|--------------------|---------------------------------------------------------------------------------------------------|
+| sa_data_class_lego            | backend          | all                | [![pub package](https://img.shields.io/pub/v/sa_data_class_lego.svg)](https://pub.dartlang.org/packages/sa_data_class_lego) |
+| sa_enum_lego                  | backend          | all                | [![pub package](https://img.shields.io/pub/v/sa_enum_lego.svg)](https://pub.dartlang.org/packages/sa_enum_lego) |
+| sa_sqflite_lego               | backend          | mobile,desktop     | [![pub package](https://img.shields.io/pub/v/sa_sqflite_lego.svg)](https://pub.dartlang.org/packages/sa_sqflite_lego) |
+| sa_orange_lego                | backend          | all                | [![pub package](https://img.shields.io/pub/v/sa_orange_lego.svg)](https://pub.dartlang.org/packages/sa_orange_lego) |
 | sa_shared_preference_lego      | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_shared_preference_lego.svg)](https://pub.dartlang.org/packages/sa_shared_preference_lego) |
 | sa_flutter_secure_storage_lego | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_flutter_secure_storage_lego.svg)](https://pub.dartlang.org/packages/sa_flutter_secure_storage_lego) |
 | sa_app_storage_lego   | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_app_storage_lego.svg)](https://pub.dartlang.org/packages/sa_app_storage_lego) |
-| sa_deeplink_lego      | backend,frontend | mobile,desktop | [![pub package](https://img.shields.io/pub/v/sa_deeplink_lego.svg)](https://pub.dartlang.org/packages/sa_deeplink_lego) |
-| sa_listener_lego               | frontend  | all                              | [![pub package](https://img.shields.io/pub/v/sa_listener_lego.svg)](https://pub.dartlang.org/packages/sa_listener_lego) |
-| sa_fgbg_listener_lego          | frontend  | mobile   | [![pub package](https://img.shields.io/pub/v/sa_fgbg_listener_lego.svg)](https://pub.dartlang.org/packages/sa_fgbg_listener_lego) |
-| sa_battery_plus_listener_lego  | frontend  | mobile   | [![pub package](https://img.shields.io/pub/v/sa_battery_plus_listener_lego.svg)](https://pub.dartlang.org/packages/sa_battery_plus_listener_lego) |
-| sa_app_links_listener_lego     | frontend  | mobile   | [![pub package](https://img.shields.io/pub/v/sa_app_links_listener_lego.svg)](https://pub.dartlang.org/packages/sa_app_links_listener_lego) |
-
+| sa_deeplink_lego      | backend,frontend | mobile,desktop     | [![pub package](https://img.shields.io/pub/v/sa_deeplink_lego.svg)](https://pub.dartlang.org/packages/sa_deeplink_lego) |
+| sa_listener_lego               | frontend  | all                | [![pub package](https://img.shields.io/pub/v/sa_listener_lego.svg)](https://pub.dartlang.org/packages/sa_listener_lego) |
+| sa_fgbg_listener_lego          | frontend  | mobile             | [![pub package](https://img.shields.io/pub/v/sa_fgbg_listener_lego.svg)](https://pub.dartlang.org/packages/sa_fgbg_listener_lego) |
+| sa_battery_plus_listener_lego  | frontend  | all             | [![pub package](https://img.shields.io/pub/v/sa_battery_plus_listener_lego.svg)](https://pub.dartlang.org/packages/sa_battery_plus_listener_lego) |
+| sa_app_links_listener_lego     | frontend  | all             | [![pub package](https://img.shields.io/pub/v/sa_app_links_listener_lego.svg)](https://pub.dartlang.org/packages/sa_app_links_listener_lego) |
+| google_search_result_page_lego | frontend  | all                | [![pub package](https://img.shields.io/pub/v/google_search_result_page_lego.svg)](https://pub.dartlang.org/packages/google_search_result_page_lego) |
 
 
 
