@@ -54,14 +54,15 @@ lego create
 | sa_shared_preference_lego      | database  | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_shared_preference_lego.svg)](https://pub.dartlang.org/packages/sa_shared_preference_lego) |
 | sa_flutter_secure_storage_lego | database  | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_flutter_secure_storage_lego.svg)](https://pub.dartlang.org/packages/sa_flutter_secure_storage_lego) |
 | lego add sa_app_storage_lego   | storage   | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_app_storage_lego.svg)](https://pub.dartlang.org/packages/sa_app_storage_lego) |
-| sa_listener_lego               | template  | all                              | [![pub package](https://img.shields.io/pub/v/sa_listener_lego.svg)](https://pub.dartlang.org/packages/sa_listener_lego) |
 
 
 ### Frontend Listener Legos
 | Package                    | Type      | Platform | Version                                                                                           |
 |----------------------------|-----------|----------|---------------------------------------------------------------------------------------------------|
+| sa_listener_lego               | template  | all                              | [![pub package](https://img.shields.io/pub/v/sa_listener_lego.svg)](https://pub.dartlang.org/packages/sa_listener_lego) |
 | sa_fgbg_listener_lego          | listener  | mobile   | [![pub package](https://img.shields.io/pub/v/sa_fgbg_listener_lego.svg)](https://pub.dartlang.org/packages/sa_fgbg_listener_lego) |
 | sa_battery_plus_listener_lego  | listener  | mobile   | [![pub package](https://img.shields.io/pub/v/sa_battery_plus_listener_lego.svg)](https://pub.dartlang.org/packages/sa_battery_plus_listener_lego) |
+
 
 
 
