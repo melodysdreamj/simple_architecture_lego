@@ -62,6 +62,7 @@ lego create
 | sa_listener_lego               | template  | all                              | [![pub package](https://img.shields.io/pub/v/sa_listener_lego.svg)](https://pub.dartlang.org/packages/sa_listener_lego) |
 | sa_fgbg_listener_lego          | listener  | mobile   | [![pub package](https://img.shields.io/pub/v/sa_fgbg_listener_lego.svg)](https://pub.dartlang.org/packages/sa_fgbg_listener_lego) |
 | sa_battery_plus_listener_lego  | listener  | mobile   | [![pub package](https://img.shields.io/pub/v/sa_battery_plus_listener_lego.svg)](https://pub.dartlang.org/packages/sa_battery_plus_listener_lego) |
+| sa_app_links_listener_lego     | listener  | mobile   | [![pub package](https://img.shields.io/pub/v/sa_app_links_listener_lego.svg)](https://pub.dartlang.org/packages/sa_app_links_listener_lego) |
 
 
 
