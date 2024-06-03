@@ -55,7 +55,6 @@ lego create
 | sa_flutter_secure_storage_lego | database  | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_flutter_secure_storage_lego.svg)](https://pub.dartlang.org/packages/sa_flutter_secure_storage_lego) |
 | sa_app_storage_lego   | storage   | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_app_storage_lego.svg)](https://pub.dartlang.org/packages/sa_app_storage_lego) |
 
-
 ### Frontend Listener Legos
 | Package                    | Type      | Platform | Version                                                                                           |
 |----------------------------|-----------|----------|---------------------------------------------------------------------------------------------------|
@@ -63,6 +62,16 @@ lego create
 | sa_fgbg_listener_lego          | listener  | mobile   | [![pub package](https://img.shields.io/pub/v/sa_fgbg_listener_lego.svg)](https://pub.dartlang.org/packages/sa_fgbg_listener_lego) |
 | sa_battery_plus_listener_lego  | listener  | mobile   | [![pub package](https://img.shields.io/pub/v/sa_battery_plus_listener_lego.svg)](https://pub.dartlang.org/packages/sa_battery_plus_listener_lego) |
 | sa_app_links_listener_lego     | listener  | mobile   | [![pub package](https://img.shields.io/pub/v/sa_app_links_listener_lego.svg)](https://pub.dartlang.org/packages/sa_app_links_listener_lego) |
+
+### Backend and Frontend Unified Legos
+| Package                    | Type      | Platform | Version                                                                                           |
+|----------------------------|-----------|----------|---------------------------------------------------------------------------------------------------|
+| sa_deeplink_lego      | deeplink  | mobile,web         | [![pub package](https://img.shields.io/pub/v/sa_deeplink_lego.svg)](https://pub.dartlang.org/packages/sa_deeplink_lego) |
+
+
+
+
+
 
 
 
