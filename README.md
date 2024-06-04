@@ -43,7 +43,7 @@ lego create
 2. add below lego module to your project's `pubspec.yaml` file.
 
 
-### Backend Legos
+### Legos
 
 | Package                    | Type             | Platform           | Version                                                                                           |
 |----------------------------|------------------|--------------------|---------------------------------------------------------------------------------------------------|
@@ -60,11 +60,7 @@ lego create
 | sa_battery_plus_listener_lego  | frontend  | all             | [![pub package](https://img.shields.io/pub/v/sa_battery_plus_listener_lego.svg)](https://pub.dartlang.org/packages/sa_battery_plus_listener_lego) |
 | sa_app_links_listener_lego     | frontend  | all             | [![pub package](https://img.shields.io/pub/v/sa_app_links_listener_lego.svg)](https://pub.dartlang.org/packages/sa_app_links_listener_lego) |
 | google_search_result_page_lego | frontend  | all                | [![pub package](https://img.shields.io/pub/v/google_search_result_page_lego.svg)](https://pub.dartlang.org/packages/google_search_result_page_lego) |
-
-### Blueprint Legos 
-| Package                    | Type             | Platform           | Version                                                                                           |
-|----------------------------|------------------|--------------------|---------------------------------------------------------------------------------------------------|
-| | june_lego                  | [![june_lego](https://img.shields.io/pub/v/june_lego.svg)](https://pub.dev/packages/june_lego)                  |
+| june_lego | frontend  | all                | [![pub package](https://img.shields.io/pub/v/june_lego.svg)](https://pub.dartlang.org/packages/june_lego) |
 
 
 
