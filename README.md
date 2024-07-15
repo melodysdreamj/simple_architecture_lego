@@ -53,6 +53,7 @@ lego create
 | sa_orange_lego                | backend          | all               | [![pub package](https://img.shields.io/pub/v/sa_orange_lego.svg)](https://pub.dartlang.org/packages/sa_orange_lego) |
 | sa_shared_preference_lego      | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_shared_preference_lego.svg)](https://pub.dartlang.org/packages/sa_shared_preference_lego) |
 | sa_flutter_secure_storage_lego | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_flutter_secure_storage_lego.svg)](https://pub.dartlang.org/packages/sa_flutter_secure_storage_lego) |
+| package_info_plus_lego        | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/package_info_plus_lego.svg)](https://pub.dartlang.org/packages/package_info_plus_lego) |
 | sa_app_storage_lego   | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_app_storage_lego.svg)](https://pub.dartlang.org/packages/sa_app_storage_lego) |
 | sa_google_mlkit_translate_lego | backend          | mobile | [![pub package](https://img.shields.io/pub/v/sa_google_mlkit_translate_lego.svg)](https://pub.dartlang.org/packages/sa_google_mlkit_translate_lego) |
 | sa_deeplink_lego      | backend,frontend | mobile,desktop    | [![pub package](https://img.shields.io/pub/v/sa_deeplink_lego.svg)](https://pub.dartlang.org/packages/sa_deeplink_lego) |
