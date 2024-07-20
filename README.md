@@ -56,8 +56,6 @@ lego create
 | package_info_plus_lego        | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/package_info_plus_lego.svg)](https://pub.dartlang.org/packages/package_info_plus_lego) |
 | sa_app_storage_lego   | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_app_storage_lego.svg)](https://pub.dartlang.org/packages/sa_app_storage_lego) |
 | sa_google_mlkit_translate_lego | backend          | mobile | [![pub package](https://img.shields.io/pub/v/sa_google_mlkit_translate_lego.svg)](https://pub.dartlang.org/packages/sa_google_mlkit_translate_lego) |
-| firebase_core_lego | backend  | all               | [![pub package](https://img.shields.io/pub/v/firebase_core_lego.svg)](https://pub.dartlang.org/packages/firebase_core_lego) |
-| firebase_analytics_lego | backend  | all               | [![pub package](https://img.shields.io/pub/v/firebase_analytics_lego.svg)](https://pub.dartlang.org/packages/firebase_analytics_lego) |
 | sa_deeplink_lego      | backend,frontend | mobile,desktop    | [![pub package](https://img.shields.io/pub/v/sa_deeplink_lego.svg)](https://pub.dartlang.org/packages/sa_deeplink_lego) |
 | sa_listener_lego               | frontend  | all               | [![pub package](https://img.shields.io/pub/v/sa_listener_lego.svg)](https://pub.dartlang.org/packages/sa_listener_lego) |
 | sa_fgbg_listener_lego          | frontend  | mobile            | [![pub package](https://img.shields.io/pub/v/sa_fgbg_listener_lego.svg)](https://pub.dartlang.org/packages/sa_fgbg_listener_lego) |
