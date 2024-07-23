@@ -59,6 +59,7 @@ lego create
 | sa_google_mlkit_translate_lego | backend          | mobile | [![pub package](https://img.shields.io/pub/v/sa_google_mlkit_translate_lego.svg)](https://pub.dartlang.org/packages/sa_google_mlkit_translate_lego) |
 | sa_deeplink_lego      | backend,frontend | mobile,desktop    | [![pub package](https://img.shields.io/pub/v/sa_deeplink_lego.svg)](https://pub.dartlang.org/packages/sa_deeplink_lego) |
 | sa_firebase_auth_lego | backend          | mobile,desktop    | [![pub package](https://img.shields.io/pub/v/sa_firebase_auth_lego.svg)](https://pub.dartlang.org/packages/sa_firebase_auth_lego) |
+| sa_lego_cloud_functions_lego | backend          | mobile,desktop    | [![pub package](https://img.shields.io/pub/v/sa_lego_cloud_functions_lego.svg)](https://pub.dartlang.org/packages/sa_lego_cloud_functions_lego) |
 | sa_listener_lego               | frontend  | all               | [![pub package](https://img.shields.io/pub/v/sa_listener_lego.svg)](https://pub.dartlang.org/packages/sa_listener_lego) |
 | sa_fgbg_listener_lego          | frontend  | mobile            | [![pub package](https://img.shields.io/pub/v/sa_fgbg_listener_lego.svg)](https://pub.dartlang.org/packages/sa_fgbg_listener_lego) |
 | sa_battery_plus_listener_lego  | frontend  | all            | [![pub package](https://img.shields.io/pub/v/sa_battery_plus_listener_lego.svg)](https://pub.dartlang.org/packages/sa_battery_plus_listener_lego) |
