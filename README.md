@@ -56,6 +56,7 @@ lego create
 | sa_flutter_secure_storage_lego | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_flutter_secure_storage_lego.svg)](https://pub.dartlang.org/packages/sa_flutter_secure_storage_lego) |
 | package_info_plus_lego        | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/package_info_plus_lego.svg)](https://pub.dartlang.org/packages/package_info_plus_lego) |
 | sa_app_storage_lego   | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_app_storage_lego.svg)](https://pub.dartlang.org/packages/sa_app_storage_lego) |
+| sa_firebase_storage_lego | backend          | mobile,desktop,web | [![pub package](https://img.shields.io/pub/v/sa_firebase_storage_lego.svg)](https://pub.dartlang.org/packages/sa_firebase_storage_lego) |
 | sa_google_mlkit_translate_lego | backend          | mobile | [![pub package](https://img.shields.io/pub/v/sa_google_mlkit_translate_lego.svg)](https://pub.dartlang.org/packages/sa_google_mlkit_translate_lego) |
 | sa_deeplink_lego      | backend,frontend | mobile,desktop    | [![pub package](https://img.shields.io/pub/v/sa_deeplink_lego.svg)](https://pub.dartlang.org/packages/sa_deeplink_lego) |
 | sa_firebase_auth_lego | backend          | mobile,desktop    | [![pub package](https://img.shields.io/pub/v/sa_firebase_auth_lego.svg)](https://pub.dartlang.org/packages/sa_firebase_auth_lego) |
