@@ -67,7 +67,7 @@ lego create
 | sa_battery_plus_listener_lego  | frontend  | all            | [![pub package](https://img.shields.io/pub/v/sa_battery_plus_listener_lego.svg)](https://pub.dartlang.org/packages/sa_battery_plus_listener_lego) |
 | sa_app_links_listener_lego     | frontend  | all            | [![pub package](https://img.shields.io/pub/v/sa_app_links_listener_lego.svg)](https://pub.dartlang.org/packages/sa_app_links_listener_lego) |
 | june_lego | frontend  | all               | [![pub package](https://img.shields.io/pub/v/june_lego.svg)](https://pub.dartlang.org/packages/june_lego) |
-
+| sa_june_util_lego | frontend  | all               | [![pub package](https://img.shields.io/pub/v/sa_june_util_lego.svg)](https://pub.dartlang.org/packages/sa_june_util_lego) |
 
 
 
